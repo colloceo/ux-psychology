@@ -33,3 +33,5 @@ Use the package during:
 ## Principle
 
 The purpose of UX psychology is not to manipulate users. It is to make interfaces easier to understand, navigate, learn, and use while preserving informed choice and user autonomy.
+
+By Collins
